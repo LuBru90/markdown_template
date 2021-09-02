@@ -5,7 +5,10 @@ markdown template
 ## Header 2
 ### Header 3
 
-[Hyperlink](www.google.de)
+[Hyperlink](https://www.google.com)
 
+## Images and Gifs from repo:
 ![Text](image.webp?raw=true)
+
+## Images and Gifs from gist?:
 
